@@ -7,11 +7,18 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 int numberMax = number1;
 
-if(number1 > number2)
+if(number1 == number2)
 {
-   Console.WriteLine(number1);
+    Console.WriteLine("Ошибка: Числа равнозначны");
 }
 else
 {
+    if(number1 > number2)
+    {
+        Console.WriteLine(number1);
+    }
+    else
+    {
     Console.WriteLine(number2);
+    }
 }

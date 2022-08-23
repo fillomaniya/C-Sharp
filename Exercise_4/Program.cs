@@ -9,13 +9,20 @@ int number3 = Convert.ToInt32(Console.ReadLine());
 
 int numberMax = number1;
 
-if(number2 > numberMax)
+if(number1 == number2 && number2 == number3)
 {
-    numberMax = number2;
+    Console.WriteLine("Ошибка: все значения равны");
 }
-if(number3 > numberMax)
+else
 {
-    numberMax = number3;
+    if(number2 > numberMax)
+    {
+        numberMax = number2;
+    }
+    if(number3 > numberMax)
+    {
+        numberMax = number3;
+    }
+    Console.Write("max = ");
+    Console.Write(numberMax);
 }
-Console.Write("max = ");
-Console.Write(numberMax);

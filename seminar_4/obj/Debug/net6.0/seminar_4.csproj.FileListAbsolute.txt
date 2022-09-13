@@ -1,0 +1,15 @@
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/bin/Debug/net6.0/seminar_4
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/bin/Debug/net6.0/seminar_4.deps.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/bin/Debug/net6.0/seminar_4.runtimeconfig.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/bin/Debug/net6.0/seminar_4.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/bin/Debug/net6.0/seminar_4.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.csproj.AssemblyReference.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.AssemblyInfoInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.AssemblyInfo.cs
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.csproj.CoreCompileInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/refint/seminar_4.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/seminar_4.genruntimeconfig.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/seminar_4/obj/Debug/net6.0/ref/seminar_4.dll

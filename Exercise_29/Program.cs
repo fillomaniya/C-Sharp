@@ -1,4 +1,7 @@
-﻿int[] array = new int[8];
+﻿// Напишите программу, которая задаёт массив 
+// из 8 элементов и выводит их на экран
+
+int[] array = new int[8];
 
 void FillArray(int[] collection)
 {

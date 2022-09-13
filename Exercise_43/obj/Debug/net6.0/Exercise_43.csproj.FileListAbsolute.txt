@@ -1,0 +1,15 @@
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/bin/Debug/net6.0/Exercise_43
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/bin/Debug/net6.0/Exercise_43.deps.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/bin/Debug/net6.0/Exercise_43.runtimeconfig.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/bin/Debug/net6.0/Exercise_43.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/bin/Debug/net6.0/Exercise_43.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.csproj.AssemblyReference.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.AssemblyInfoInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.AssemblyInfo.cs
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.csproj.CoreCompileInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/refint/Exercise_43.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/Exercise_43.genruntimeconfig.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/С#/Exercise_43/obj/Debug/net6.0/ref/Exercise_43.dll
